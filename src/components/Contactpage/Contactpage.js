@@ -16,7 +16,7 @@ function Contactpage() {
         <button
           className="contactbtn"
           onClick={() => {
-            window.open("https://www.instagram.com/hemant.arora__/");
+            window.open("mailto:arorahemant75@gmail.com");
           }}
         >
           Say Hello
